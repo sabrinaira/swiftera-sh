@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Taylor Swift - Debut Album - 2006"
 
 echo ""

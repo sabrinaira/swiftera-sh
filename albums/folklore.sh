@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Folklore - 2020"
 
 echo ""

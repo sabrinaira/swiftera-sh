@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Speak Now - 2010"
 
 echo ""

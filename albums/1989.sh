@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "1989 - 2014"
 
 echo ""

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Fearless - 2008"
 
 echo ""

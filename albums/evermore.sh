@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Evermore - 2020"
 
 echo ""

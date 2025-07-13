@@ -1,10 +1,10 @@
 # OS-specific
-.DS_Store            # macOS
-Thumbs.db            # Windows
-ehthumbs.db          # Windows
-desktop.ini          # Windows
-$RECYCLE.BIN/        # Windows
-*.swp                # Vim swap files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.swp
 *.swo
 
 # Shell history (if generated or accidentally saved)

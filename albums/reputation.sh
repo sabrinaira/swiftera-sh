@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Reputation - 2017"
 
 echo ""

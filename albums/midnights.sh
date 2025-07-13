@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Midnights - 2022"
 
 echo ""
