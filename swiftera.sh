@@ -9,6 +9,16 @@ run_album_script() {
   fi
 }
 
+say_goodbye() {
+  echo ""
+  echo "Thanks for visiting!"
+  sleep 1
+  echo ""
+  echo "Goodbye!"
+  echo ""
+  exit 0
+}
+
 echo ""
 echo "Welcome to my Taylor Swift-inspired shell script project!"
 sleep 2
@@ -22,7 +32,7 @@ while true; do
   echo "Select an album:"
   sleep 1
   echo ""
-  echo "1) Taylor Swift"
+  echo "1) Taylor Swift (Debut)"
   echo "2) Fearless"
   echo "3) Speak Now"
   echo "4) Red"
@@ -33,7 +43,8 @@ while true; do
   echo "9) Evermore"
   echo "10) Midnights"
   echo "11) The Tortured Poet's Department"
-  echo "12) Exit"
+  echo "12) From The Vault Tracks"
+  echo "13) Exit"
   echo ""
 
   read -p "Enter your choice (1-12): " choice
@@ -50,7 +61,8 @@ while true; do
     9) ./albums/evermore.sh ;;
     10) ./albums/midnights.sh ;;
     11) ./albums/ttpd.sh ;;
-    12) echo "Thanks for visiting!"; sleep 1; echo "Goodbye"; exit ;;
+    12) ./albums/vault.sh ;;
+    13) say_goodbye; exit ;;
     *) echo "Invalid choice, please try again." ;;
   esac
 done

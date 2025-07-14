@@ -1,7 +1,50 @@
 #!/bin/bash
 
 echo ""
-echo "The Tortured Poet's Department - 2024"
+echo "Taylor Swift - THE TORTURED POET'S DEPARTMENT"
+sleep 1
+echo ""
+echo "Released: April 18, 2024"
+sleep 2
+
+echo ""
+echo "Tracklist:"
+echo "1) Fortnight (feat. Post Malone)"
+echo "2) The Tortured Poet's Department"
+echo "3) My Boy Only Breaks His Favorite Toys"
+echo "4) Down Bad"
+echo "5) So Long, London"
+echo "6) But Daddy I Love Him"
+echo "7) Fresh Out The Slammer"
+echo "8) Florida!!! (feat. Florence + The Machine)"
+echo "9) Guilty as Sin?"
+echo "10) Who's Afraid of Little Old Me?"
+echo "11) I Can Fix Him (No Really I Can)"
+echo "12) loml"
+echo "13) I Can Do It With a Broken Heart"
+echo "14) The Smallest Man Who Ever Lived"
+echo "15) The Alchemy"
+echo "16) Clara Bow"
+sleep 1
+
+echo ""
+echo "THE ANTHOLOGY:"
+echo "17) The Black Dog"
+echo "18) imgonnagetyouback"
+echo "19) The Albatross"
+echo "20) Chloe or Sam or Sophia or Marcus"
+echo "21) How Did It End?"
+echo "22) So High School"
+echo "23) I Hate It Here"
+echo "24) thanK you aIMee"
+echo "25) I Look in People's Windows"
+echo "26) The Prophecy"
+echo "27) Cassandra"
+echo "28) Peter"
+echo "29) The Bolter"
+echo "30) Robin"
+echo "31) The Manuscript"
+sleep 1
 
 echo ""
 read -p "Press enter to return to the main menu..."
