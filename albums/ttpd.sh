@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo ""
-echo "Taylor Swift - THE TORTURED POET'S DEPARTMENT"
+echo "Album: 🪶🦢🖤📝 THE TORTURED POET'S DEPARTMENT 📝🖤🦢🪶"
 sleep 1
 echo ""
 echo "Released: April 18, 2024"
-sleep 2
+sleep 1
 
 echo ""
 echo "Tracklist:"

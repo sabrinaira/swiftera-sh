@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo ""
-echo "Taylor Swift - reputation"
+echo "Album: 🌑📰💋🐍 reputation 🐍💋📰🌑"
 sleep 1
 echo ""
 echo "Released: November 10, 2017"
-sleep 2
+sleep 1
 
 echo ""
 echo "Tracklist:"

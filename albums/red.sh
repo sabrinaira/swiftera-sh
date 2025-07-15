@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo ""
-echo "Taloyr Swift - Red 🎵"
+echo "Album: 💋🚗🍷🍂 Red 🍂🍷🚗💋"
 sleep 1
 echo ""
 echo "Released: October 22, 2012"

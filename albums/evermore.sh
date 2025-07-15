@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo ""
-echo "Taylor Swift - evermore"
+echo "Album: 🎨🪵🎻🍁 evermore 🍁🎻🪵🎨"
 sleep 1
 echo ""
 echo "Released: December 11, 2020"
-sleep 2
+sleep 1
 
 echo ""
 echo "Tracklist:"

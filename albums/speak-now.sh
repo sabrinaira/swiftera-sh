@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo ""
-echo "Taylor Swift - Speak Now"
+echo "Album: ⏳✨🎤💜 Speak Now 💜🎤✨⏳"
 sleep 1
 echo ""
 echo "Released: October 25, 2010"

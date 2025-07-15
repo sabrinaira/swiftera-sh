@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo ""
-echo "Taylor Swift - folklore"
+echo "Album: ☁️🏡📖🌲 folklore 🌲📖🏡☁️"
 sleep 1
 echo ""
 echo "Released: July 24, 2020"
-sleep 2
+sleep 1
 
 echo ""
 echo "Tracklist:"

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo ""
-echo "🎵 Taylor Swift - Fearless 🎵"
+echo "Album: 🌧️🛣️✨💛 Fearless 💛✨🛣️🌧️"
 sleep 1
 echo ""
 echo "Released: November 11, 2008"

@@ -14,7 +14,7 @@ say_goodbye() {
   echo "Thanks for visiting!"
   sleep 1
   echo ""
-  echo "Goodbye!"
+  echo "Goodbye."
   echo ""
   exit 0
 }
@@ -29,8 +29,8 @@ sleep 3
 
 while true; do
   echo ""
-  echo "Select an album:"
-  sleep 1
+  echo "Album List:"
+  sleep 0.5
   echo ""
   echo "1) Taylor Swift (Debut)"
   echo "2) Fearless"
@@ -46,8 +46,9 @@ while true; do
   echo "12) From The Vault Tracks"
   echo "13) Exit"
   echo ""
+  sleep 0.5
 
-  read -p "Enter your choice (1-12): " choice
+  read -p "Input a number to select an album (1-12): " choice
 
   case $choice in
     1) ./albums/debut.sh ;;

@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo ""
-echo "🎵 Taylor Swift - Lover🎵"
+echo "Album: 💌🌈🎡💖 Lover 💖🎡🌈💌"
 sleep 1
 echo ""
 echo "Released: August 23, 2019"
-sleep 2
+sleep 1
 
 while true; do
   echo ""

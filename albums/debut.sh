@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo ""
-echo "Taylor Swift - Taylor Swift (Debut)"
+echo "Album: 🎸🌾🐎👢 Taylor Swift 👢🐎🌾🎸"
 sleep 1
 echo ""
 echo "Released: October 24, 2006"
-sleep 2
+sleep 1
 
 echo ""
 echo "Tracklist:"

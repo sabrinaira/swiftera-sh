@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo ""
-echo "Taylor Swift - 1989"
+echo "Album: 🗽🌊📸🦋 1989 🦋📸🌊🗽"
 sleep 1
 echo ""
 echo "Released: October 27, 2014"

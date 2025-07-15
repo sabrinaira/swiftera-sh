@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo ""
-echo "Taylor Swift - Midnights"
+echo "Album: 💙🌙🕰️🌌 Midnights 🌌🕰️🌙💙"
 sleep 1
 echo ""
 echo "Released: October 21, 2022"
-sleep 2
+sleep 1
 
 echo ""
 echo "Tracklist:"
