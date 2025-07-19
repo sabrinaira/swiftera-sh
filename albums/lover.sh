@@ -57,7 +57,7 @@ while true; do
     13) cat songs/Lover/false_god.txt ;;
     14) cat songs/Lover/you_need_to_calm_down.txt ;;
     15) cat songs/Lover/afterglow.txt ;;
-    16) cat songs/Lover/me\!.txt ;;
+    16) cat songs/Lover/me.txt ;;
     17) cat songs/Lover/it\'s_nice_to_have_a_friend.txt ;;
     18) cat songs/Lover/daylight.txt ;;
     19) cat songs/Lover/all_of_the_girls_you_loved_before.txt ;;
