@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Prompt for album name
-read -p "Enter the album name (e.g., Lover): " album_name
+read -p "Create album directory (e.g., Lover): " album_name
 album_dir="songs/$album_name"
 
 # Create the album directory if it doesn't exist
 mkdir -p "$album_dir"
 
 # Prompt for the song list file
-read -p "Enter the path to the song list .txt file (e.g., scripts/lover_songs.txt): " song_list_file
+read -p "Enter path to the song list (e.g., scripts/lover_songs.txt): " song_list_file
 
 # Check if the song list file exists
 if [[ ! -f "$song_list_file" ]]; then
@@ -33,4 +33,7 @@ while IFS= read -r song_title; do
   fi
 done < "$song_list_file"
 
-echo "All song files for $album_name created successfully!"
+sleep 1
+
+echo ""
+echo "All song files for \"$album_name\" created successfully!"
