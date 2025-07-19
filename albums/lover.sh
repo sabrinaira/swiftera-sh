@@ -28,14 +28,15 @@ while true; do
   echo "16) ME! (feat. Brendon Urie)"
   echo "17) It's Nice to Have a Friend"
   echo "18) Daylight"
-  echo "19) All of the Girls You Loved Before"
-  echo "20) Return to Main Menu"
   sleep 1
 
   echo ""
   echo "The More Lover Chapter:"
   echo "19) All of the Girls You Loved Before"
   sleep 1
+
+  echo ""
+  echo "20) Return to Main Menu"
 
   echo ""
   read -p "Choose a song to read the lyrics: " song_choice
@@ -48,17 +49,17 @@ while true; do
     4) cat songs/Lover/the_man.txt ;;
     5) cat songs/Lover/the_archer.txt ;;
     6) cat songs/Lover/i_think_he_knows.txt ;;
-    7) cat songs/Lover/miss_americana_\&_the_heartbreak_prince.txt ;;
+    7) cat songs/Lover/miss_americana__the_heartbreak_prince.txt ;;
     8) cat songs/Lover/paper_rings.txt ;;
     9) cat songs/Lover/cornelia_street.txt ;;
     10) cat songs/Lover/death_by_a_thousand_cuts.txt ;;
     11) cat songs/Lover/london_boy.txt ;;
-    12) cat songs/Lover/soon_you\'ll_get_better.txt ;;
+    12) cat songs/Lover/soon_youll_get_better__featuring_the_dixie_chicks_.txt ;;
     13) cat songs/Lover/false_god.txt ;;
     14) cat songs/Lover/you_need_to_calm_down.txt ;;
     15) cat songs/Lover/afterglow.txt ;;
-    16) cat songs/Lover/me.txt ;;
-    17) cat songs/Lover/it\'s_nice_to_have_a_friend.txt ;;
+    16) cat songs/Lover/me__featuring_brendon_urie_of_panic_at_the_disco_.txt ;;
+    17) cat songs/Lover/its_nice_to_have_a_friend.txt ;;
     18) cat songs/Lover/daylight.txt ;;
     19) cat songs/Lover/all_of_the_girls_you_loved_before.txt ;;
     20) break ;;
