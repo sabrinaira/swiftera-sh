@@ -26,7 +26,7 @@ echo "13) Clean"
 echo "14) Wonderland"
 echo "15) You Are In Love"
 echo "16) New Romantics"
-echo "17) Bad Blood (feat. Kendrick Lamar)"
+
 sleep 1
 
 echo ""
@@ -36,6 +36,14 @@ echo "18) Say Don't Go"
 echo "19) Now That We Don't Talk"
 echo "20) Suburban Legends"
 echo "21) Is it Over Now?"
+
+echo ""
+echo "Deluxe edition:"
+echo "22) Bad Blood (feat. Kendrick Lamar)"
+
+echo ""
+echo "Tangerine edition:"
+echo "23) Sweeter than Fiction "
 sleep 1
 
 echo ""
