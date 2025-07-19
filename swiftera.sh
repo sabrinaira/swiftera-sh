@@ -53,7 +53,7 @@ while true; do
   case $choice in
     1) ./albums/debut.sh ;;
     2) ./albums/fearless.sh ;;
-    3) ./albums/speak-now.sh ;;
+    3) ./albums/speak_now.sh ;;
     4) ./albums/red.sh ;;
     5) ./albums/1989.sh ;;
     6) ./albums/reputation.sh ;;
